@@ -1,5 +1,5 @@
 const container = document.getElementById('container');
-const text = 'xaviera';
+const text = 'saphiraa';
 const numTexts = 100; 
 const centerX = 300; 
 const centerY = 300; 
